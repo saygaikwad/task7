@@ -1,5 +1,3 @@
-# task7
- Basic Sales Summary from a Tiny SQLite Database using Python
 # Task 7 - Sales Summary using SQLite and Python
 
 ## Objective
